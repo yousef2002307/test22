@@ -1,0 +1,27 @@
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus,
+.dropdown-menu > li > a:hover,
+.carousel-indicators li.active,
+i.fa-cog,
+i#scroll {
+  background-color: blue;
+}
+.dropdown-menu,
+.testmonial .carousel-indicators li,
+.theme-jo {
+  border-top: 4px solid blue;
+}
+section.about-us h1 strong,
+section.about-us p strong,
+.testmonial span,
+.our-team h2,
+.statics .overlay2 h1,
+.ourskills h2,
+.ourskills h3,
+.contact-us i {
+  color: blue;
+}
+.navbar-inverse .navbar-brand {
+  color: blue;
+}

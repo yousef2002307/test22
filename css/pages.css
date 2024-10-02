@@ -1,0 +1,22 @@
+.jofaq {
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+
+.panel-group .panel-default {
+  background-color: #ddffdb !important;
+  color: #4a2d2d;
+  background-image: none !important;
+}
+.panel-default > .panel-heading {
+  color: #333;
+  background-color: #ffdddd;
+  border-color: #ddd;
+  position: relative;
+}
+.panel-heading i {
+  position: absolute;
+  right: 14px;
+  top: 30%;
+  cursor: pointer;
+}
